@@ -1,7 +1,7 @@
 # Prioritized DDQN with [ReLAx](https://github.com/nslyubaykin/relax)
 Example Prioritized DDQN implementation with [ReLAx](https://github.com/nslyubaykin/relax)
 
-This repository contains an example implementation of Prioritized Experience Replay with DDQN algorithm
+This repository contains an example [implementation](https://github.com/nslyubaykin/prioritized_ddqn/blob/master/prioritized_ddqn.ipynb) of Prioritized Experience Replay with DDQN algorithm
  
 The performance versus vanilla DDQN is measured by averaging learning curves (for separate evaluation environment) over 4 experiments with random environment seeds.
 
